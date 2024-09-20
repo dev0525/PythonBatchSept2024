@@ -9,6 +9,9 @@ git status
 git commit -m "add text"
 git push
 
+#To check how many branches exist
+git branch
+
 #Playing around with branches/features
 git branch feature/{name a feature we want to create}
 git switch {point the branch to switch}
